@@ -30,7 +30,7 @@ class CustomStorage(FileSystemStorage):
 		filename = parts[len(parts)-1]
 		folders = parts.remove(filename)
 
-		# Making file buffer
+		# Making file bu	ffer
 		with open(settings.BASE_DIR+"/"+filename,"wb+") as f:
 			for chunk in content.chunks():
 				f.write(chunk)
