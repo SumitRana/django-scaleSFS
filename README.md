@@ -11,10 +11,6 @@ of the file and providing a easy access link with the django-orm .
 -----------
 
 1. Changes in settings.py :
-	
-	# configuration
-	# server tuple = ("protocol","ip","port","base path","user",current or not boolean,"identity_key path","password")
-	# StaticServers = (('http','10.5.50.1','80','/var/www/','ubuntu',False,None,"password"), ..)
 
 	```python
 
