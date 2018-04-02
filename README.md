@@ -19,5 +19,6 @@ of the file and providing a easy access link with the django-orm .
 
 	```
 
-![Project architecture](/arch.png)
-Format: ![Alt Text](url)
+<img src="arch.jpg"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
