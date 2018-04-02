@@ -18,3 +18,6 @@ of the file and providing a easy access link with the django-orm .
 		DEFAULT_FILE_STORAGE = "scaleSFS.CustomStorage.CustomStorage"
 
 	```
+
+![Project architecture](/arch.png)
+Format: ![Alt Text](url)
