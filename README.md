@@ -19,6 +19,11 @@ of the file and providing a easy access link with the django-orm .
 
 	```
 
+
+
+
+#### Project Architecture
+
 <img src="arch.jpg"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
